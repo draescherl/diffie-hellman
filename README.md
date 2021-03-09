@@ -30,6 +30,7 @@ pip install -r requirements.txt
 ## Other resources
 * [Wikipedia article](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
 * amiralis' python module available on pip : [pyDH](https://github.com/amiralis/pyDH)
+* Computerphile's [video](https://youtu.be/Yjrfm_oRO0w)
 
 ## Author
 L.DRAESCHER - lucas.draescher@gmail.com
