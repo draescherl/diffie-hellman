@@ -23,6 +23,10 @@ virtualenv venv
 pip install -r requirements.txt
 ```
 
+## TODO
+* Implement the `__check_other_pubkey` method
+* Hash the shared key
+
 ## Other resources
 * [Wikipedia article](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
 * amiralis' python module available on pip : [pyDH](https://github.com/amiralis/pyDH)
